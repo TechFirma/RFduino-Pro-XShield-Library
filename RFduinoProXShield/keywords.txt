@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for MCP23017
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RFduinoProXShield	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+pullUp	KEYWORD2
+writeGPIOAB	KEYWORD2
+readGPIOAB	KEYWORD2
+portABMode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
